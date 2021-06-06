@@ -76,3 +76,6 @@ Nessa retrospectiva, que pode ser realizada utilizando diversas técnicas, de ma
 A retrospectiva é extremamente importante, pois condensa todo o aprendizado do Coding Dojo.
 
 Alguns times costumam registrar os Coding Dojos realizados (através de filmagens, atas, etc) para consultas futuras. Essa é uma prática extremamente interessante, pois permite que o aprendizado seja compartilhado por mais pessoas mesmo após a realização do Coding Dojo.
+
+[KATA - Coding Dojo](https://codingdojo.org/kata/)
+
