@@ -314,12 +314,13 @@ Exemplo:  entrada  do  programa  n  =  3,  v  =  [[2,3],  [4,5],  [6,  7]].  Fun
 84) Faça  uma  função  que  recebe  como  parâmetro  de  entrada  um  vetor  de tamanho  qualquer,  e  retorna  como  resultado  o  vetor  invertido.  Exemplo:  ao receber como entrada o vetor v = [3, 5, 7, 9], a função deve retornar o vetor x = [9, 7, 5, 3].
 
 85) Uma sorveteria vende cinco produtos diferentes, cada um com um preço de acordo com a tabela abaixo: 
-	Código Produto Preço (R$)
-	A Refrigerante 3,50
-	B Casquinha Simples 4,00
-	C Casquinha Dupla 5,50
-	D Sundae 7,50
-	E Banana Split 9,00
+	| Código | Produto | Preço (R$) | 
+	| --- | --- | --- | 
+	| A | Refrigerante | 3,50 | 
+	| B | Casquinha Simples | 4,00 | 
+	| C | Casquinha Dupla | 5,50 | 
+	| D | Sundae | 7,50 | 
+	| E | Banana Split | 9,00 | 
 
 	Faça  um  programa  que  processe  diversas  vendas,  lembrando  que  cada  venda efetuada  pode  ser  composta  por  diversas  unidades  de  diversos  produtos.  O programa deverá utilizar: 
 	(a)  uma  função  que  apresente  na  tela  um  menu  indicando  os  preços  dos produtos. Esse menu deve ser apresentado no início de cada venda.
